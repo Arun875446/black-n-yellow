@@ -1,0 +1,141 @@
+
+body {
+
+    margin: 0;
+    font-family: 'Playfair Display','Roboto','Noto Sans','Source Sans Pro', serif, sans-serif;
+}
+
+header {
+
+    background-color: #FFE600;
+    color: #000;
+    padding: 50px;
+    text-align: center;
+}
+
+.section1 {
+
+    background-color: black;
+    color: white;
+    padding: 50px;
+
+}
+
+.section2 {
+
+    background-color: white;
+    color: #000;
+    padding: 50px;
+}
+
+.link {
+ 
+    color: #FFE600;
+    font-weight: bold;
+
+}
+
+.link:hover {
+ 
+    background-color: orange;
+
+}
+
+.link:focus {
+
+    background-color: chartreuse;
+}
+
+.link2 {
+
+    color: black;
+    font-weight: bold;
+}
+
+.link2:hover{
+
+    background-color: orange;
+
+}
+
+.link2:focus {
+
+    background-color: chartreuse;
+}
+
+.section1 .butn {
+
+    background-color: #FFE600;
+    color: #000;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+.section2 .butn2 {
+
+    color: #FFE600;
+    display: inline-block;
+    background-color: #000;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+.section1 .butn:link {
+
+    background-color: #FFE600;
+}
+
+.section1 .butn:link {
+
+    background-color: #000;
+}
+
+.section1 .butn:visited {
+
+    background-color: #FFE600;
+}
+
+.section1 .butn2:visited {
+
+    background-color: #000;
+}
+
+.section1 .butn:hover {
+
+    background-color: orange ;
+}
+
+.section2 .butn2:hover {
+
+    background-color: orange;
+}
+
+.section1 .butn:focus {
+
+    background-color: chartreuse;
+}
+
+.section2 .butn2:focus {
+
+    background-color: chartreuse;
+}
+
+
+
+.section1 .butn:active {
+
+    background-color: fuchsia;
+}
+
+.section2 .butn2:active {
+
+    background-color: fuchsia;
+}
+
